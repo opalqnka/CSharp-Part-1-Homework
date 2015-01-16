@@ -1,0 +1,43 @@
+Problem 11. Programming Languages
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the 
+most popular programming languages. How similar are they to C#? How do they differ from C#?
+Write in a text file called “programming-languages.txt” at least five languages along with 2-3 
+sentences about each of them. Use English.
+
+Programming Languages:
+
+1) C
+C is a general purpose, imperative programming language. C is mostly used for implementing embedded applications
+and operating systems.
+C is a compiled language, the code is directly translated into machine code. C# is a mixture of a 
+compiled and interpreted language - the C# code is compiled to an intermediate language (CIL).
+C# has a higher level of abstraction,  compared to C.
+
+2) C++
+C++, another representative of the compiled language family, builds on C overcoming many of its limitations. 
+C++ has a higher level of abstraction compared to C but lower than C#. It is the most complicated language
+in the C famil, useful for nearly every programming task in Win32 and .NET. C# is only available on .NET.
+C++ is used to develop application and system software, client applications, games, etc.
+
+3) Java
+Both C# and JAVA are "pure" object-oriented languages, any class in either language implicitly (or
+explicitly) subclasses an object - they are both class-based object-oriented. 
+They are both "type-safe" languages, use garbage-collection, and are designed with semi-interpretation or
+runtime compilation in mind.
+C# is better than JAVA in: the language-defined properties, delegates and related features, extension
+methods, expression trees, events, LINQ. Hoewever, JAVA has huge open sourse ecosystem.
+
+4) Python
+Python is a general-purpose, high-level programming language which supports multiple programming paradigms - 
+including object-oriented, imperative, and functional programming or procedural styles. Python's libraries
+are open source. Python is a dynamic programming language, whereas C# is static.
+
+5) PHP
+PHP is a server-side scripting language designed for web development but also used as a general-purpose 
+programming language. PHP is a dynamic programming language, whereas C# is static. 
+Also, PHP is not an object-oriented language such as C# and it does not support threading.
+
+6) Ruby
+Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.
+C# offers better performance than Ruby.
